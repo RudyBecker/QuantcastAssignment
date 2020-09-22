@@ -1,0 +1,33 @@
+.bullet-padding {
+  padding-left: 2em;
+}
+.light-blue {
+  background-color: rgba(242, 244, 249);
+}
+
+.padding-wrapper {
+  padding-left: 8em;
+  padding-right: 8em;
+}
+.q-square-logo {
+  width: 100%;
+  height: auto;
+}
+h1 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {  
+    .padding-wrapper {
+  padding-left: 0em;
+  padding-right: 0em;
+}
+}
